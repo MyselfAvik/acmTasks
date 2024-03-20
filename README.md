@@ -1,4 +1,6 @@
 # questionFromAcm
+#q4
+
 C. Rudolf and the Ugly String
 time limit per test2 seconds
 memory limit per test256 megabytes
