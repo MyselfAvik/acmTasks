@@ -10,6 +10,7 @@ public class q4{
         String s=sc.next();
         int answer=ans(s);
         System.out.println(answer);
+        sc.close();
         }
     }
         public static int ans(String s){
